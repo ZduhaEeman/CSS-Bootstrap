@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    font-family: "Trirong", serif;
+    ;
+
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    border-radius: 12px;
+    color: white;
+    background: rgb(199, 203, 203);
+
+}
+
+.card .card-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white
+        /* font-size: larger; */
+
+
+}
+
+.card img {
+    width: 80%;
+    height: 500px;
+    /* padding: 5px; */
+    border-radius: 40px;
+    margin-left: 150px;
+    margin-top: 20px;
+    background: -moz-linear-gradient(black, yellow, white);
+    padding: 23px;
+}
+
+.cards {
+    padding: 25px;
+    background: rgb(242, 240, 241);
+    margin-top: 20px;
+
+
+}
+
+.cards img {
+    width: 600px;
+    height: 350px;
+    border-radius: 50px;
+    margin: left 50px;
+}

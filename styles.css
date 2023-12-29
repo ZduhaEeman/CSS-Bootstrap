@@ -1,0 +1,172 @@
+< !DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title></title><meta name="generator" content="LibreOffice 7.4.5.1 (Windows)" /><meta name="created" content="2023-12-26T23:31:58.571000000" /><meta name="changed" content="2023-12-26T23:32:32.138000000" /></head><body lang="en-US" dir="ltr"><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#569cd6">*</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">margin</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >0</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">padding</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >0%</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">body</font> {
+    </span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#9cdcfe">font-family</font>:
+        <font color="#ce9178" >&quot;
+    Trirong&quot;
+    </font>,
+    serif;
+    ;
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><br/></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">.navbar</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">display</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        flex;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">align-items</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        center;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">justify-content</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        center;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">position</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        absolute;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">width</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >100%</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">border-radius</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >12px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">color</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        white;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">background</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        rgb(</span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >199</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >,
+            </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >203</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >,
+            </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >203</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >);
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><br/></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">.card</font><font color="#d7ba7d">.card-title</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">display</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        flex;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">align-items</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        center;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">justify-content</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        center;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">text-align</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        center;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">color</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        white</span></font></font></span></font></p> <p style="line-height: 0.2in; margin-bottom: 0in" ><font color="#d4d4d4" ><span style="background: #1e1e1e" >&nbsp;
+    &nbsp;
+    </span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#6a9955"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+    /*
+font-size: larger; */
+    </span></font></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    </span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    </span></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">.card</font><font color="#d7ba7d">img</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">width</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >80%</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">height</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >500px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#6a9955"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+    /*
+padding: 5px; */
+    </span></font></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">border-radius</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >40px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">margin-left</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >150px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">margin-top</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >20px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">background</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        -moz-linear-gradient(black, yellow, white);
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">padding</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >23px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">.cards</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">padding</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >25px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">background</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        rgb(</span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >242</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >,
+            </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >240</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >,
+            </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >241</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >);
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">margin-top</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >20px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    </span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><br/></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e"><font color="#d7ba7d">.cards</font><font color="#d7ba7d">img</font> {
+    </span></font></font></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">width</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >600px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">height</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >350px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">border-radius</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >50px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><span style="background: #1e1e1e">&nbsp;
+    &nbsp;
+    <font color="#9cdcfe"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">margin</span></font></font></font><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">:
+        left </span></font></font><font color="#b5cea8" ><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >50px</span></font></font></font><font face="Consolas, Courier New, monospace" ><font size="2" style="font-size: 10pt" ><span style="font-weight: normal" >;
+    </span></font></font></span></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><font color="#d4d4d4"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #1e1e1e">
+}
+
+</span></font></font></font></p><p style="font-weight: normal; line-height: 0.2in; margin-bottom: 0in"><br/></p><p><br/><br/></p></body></html>
